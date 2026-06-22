@@ -1,4 +1,4 @@
 // เพิ่ม JavaScript สำหรับการโต้ตอบกับผู้ใช้ (Optional)
 document.addEventListener('DOMContentLoaded', function () {
-    console.log('Portfolio ของ PAKIN พร้อมแล้ว!');
+    console.log('Portfolio ของ APHISIT พร้อมแล้ว!');
 });
